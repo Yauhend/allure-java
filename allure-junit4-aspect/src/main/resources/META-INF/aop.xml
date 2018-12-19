@@ -1,5 +1,0 @@
-<aspectj>
-    <aspects>
-        <aspect name="io.qameta.allure.junit4.aspect.AllureJunit4ListenerAspect"/>
-    </aspects>
-</aspectj>
